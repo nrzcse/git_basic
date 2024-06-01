@@ -9,3 +9,12 @@ If already setup git in PC then  Go to cradintial manager >> windows Cradintial 
 
 
 == Adding new project on GIT
+
+1. Login in the git 
+2. go to Repesotory and Add New 
+3. give Repository name >> Discription 
+3. Select if the project is privet then select Privet // in privet project other can't copy or see your project without access
+4. Normally projects are public
+5. add a Readme.MD file then create 
+
+
