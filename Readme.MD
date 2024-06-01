@@ -18,10 +18,10 @@ If already setup git in PC then  Go to cradintial manager >> windows Cradintial 
 5. add a Readme.MD file then create 
 
 * create a new repository on the command line
-echo "# delete" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/nrzcse/delete.git
-git push -u origin main
+
+1. git init
+2. git add README.md
+3. git commit -m "first commit"
+4. git branch -M main
+5. git remote add origin https://github.com/nrzcse/delete.git
+6. git push -u origin main
